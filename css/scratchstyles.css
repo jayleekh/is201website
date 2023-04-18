@@ -1,0 +1,95 @@
+.common{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    background-color: rgb(43, 7, 221);
+    background-position: top;
+    color: white;
+    height: 300px;
+    line-height: 300px;
+    text-align:center;
+    font-size:x-large;
+}
+
+nav{
+    background-color: rgb(197, 8, 8);
+    padding: 15px;
+    overflow: hidden;
+}
+
+nav a{
+    float:left;
+    color: white;
+    padding: 10px 13px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight:bold;
+}
+
+nav a:hover{
+    background-color: rgba(119, 1, 1, 0.777);
+}
+.mainbody{
+    background-color:white;
+    padding-left: 30xp;
+    font-size: 100xp;
+}
+
+.list{
+    display:inline-block;
+    text-align:left;
+    font-size:x-large;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.tableau-center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:xx-large;
+}
+
+
+.footer{
+    background-color: rgb(43, 7, 221);
+    height: 25px;
+    color: white;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    left:5px;
+    right:5px;
+    text-align: center;
+
+}
+
+img{
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    font-size:x-large;
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+    align-items: center;
+}
+
+.tableau-center{
+    width: fit-content;
+    padding-inline: 50xp;
+}
